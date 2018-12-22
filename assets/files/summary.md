@@ -8,21 +8,21 @@
 | 3   | 2015 S2 | COMP2041 | Software Construction          | 6.00  | 93   | HD - High Distinction |
 | 4   | 2009 S1 | COMP1911 | Computing 1A                   | 6.00  | 91   | HD - High Distinction |
 | 5   | 2015 S2 | COMP3441 | Security Engineering           | 6.00  | 90   | HD - High Distinction |
-| 6   | 2016 S1 | COMP3441 | Security Engineering           | 6.00  | 90   | HD - High Distinction |
-| 7   | 2016 S1 | COMP3231 | Operating Systems              | 6.00  | 89   | HD - High Distinction |
-| 8   | 2015 S2 | COMP1927 | Computing 2                    | 6.00  | 88   | HD - High Distinction |
-| 9   | 2012 S1 | COMP3141 | Software Sys Des&Implementat'n | 6.00  | 85   | HD - High Distinction |
-| 10  | 2012 S1 | MTRN4010 | Advanced Autonomous Systems    | 6.00  | 85   | HD - High Distinction |
-| 11  | 2009 S1 | ENGG1000 | Engineering Design             | 6.00  | 80   | DN - Distinction      |
-| 12  | 2009 S1 | MATH1131 | Mathematics 1A                 | 6.00  | 80   | DN - Distinction      |
-| 13  | 2010 S1 | MATH2019 | Engineering Mathematics 2E     | 6.00  | 79   | DN - Distinction      |
-| 14  | 2016 S1 | COMP2911 | Eng. Design in Computing       | 6.00  | 79   | DN - Distinction      |
-| 15  | 2010 S2 | MMAN2600 | Fluid Mechanics                | 6.00  | 78   | DN - Distinction      |
-| 16  | 2014 S1 | ELEC2141 | Digital Circuit Design         | 6.00  | 78   | DN - Distinction      |
-| 17  | 2009 S2 | MATH1231 | Mathematics 1B                 | 6.00  | 77   | DN - Distinction      |
-| 18  | 2011 S1 | MMAN3400 | Mechanics of Solids 2          | 6.00  | 77   | DN - Distinction      |
-| 19  | 2016 S1 | COMP3121 | Algorithms & Programming Tech  | 6.00  | 77   | DN - Distinction      |
-| 20  | 2016 S2 | COMP9447 | Security Engineering Workshop  | 6.00  | 77   | DN - Distinction      |
+| 6   | 2016 S1 | COMP3231 | Operating Systems              | 6.00  | 89   | HD - High Distinction |
+| 7   | 2015 S2 | COMP1927 | Computing 2                    | 6.00  | 88   | HD - High Distinction |
+| 8   | 2012 S1 | COMP3141 | Software Sys Des&Implementat'n | 6.00  | 85   | HD - High Distinction |
+| 9   | 2012 S1 | MTRN4010 | Advanced Autonomous Systems    | 6.00  | 85   | HD - High Distinction |
+| 10  | 2009 S1 | ENGG1000 | Engineering Design             | 6.00  | 80   | DN - Distinction      |
+| 11  | 2009 S1 | MATH1131 | Mathematics 1A                 | 6.00  | 80   | DN - Distinction      |
+| 12  | 2010 S1 | MATH2019 | Engineering Mathematics 2E     | 6.00  | 79   | DN - Distinction      |
+| 13  | 2016 S1 | COMP2911 | Eng. Design in Computing       | 6.00  | 79   | DN - Distinction      |
+| 14  | 2010 S2 | MMAN2600 | Fluid Mechanics                | 6.00  | 78   | DN - Distinction      |
+| 15  | 2014 S1 | ELEC2141 | Digital Circuit Design         | 6.00  | 78   | DN - Distinction      |
+| 16  | 2009 S2 | MATH1231 | Mathematics 1B                 | 6.00  | 77   | DN - Distinction      |
+| 17  | 2011 S1 | MMAN3400 | Mechanics of Solids 2          | 6.00  | 77   | DN - Distinction      |
+| 18  | 2016 S1 | COMP3121 | Algorithms & Programming Tech  | 6.00  | 77   | DN - Distinction      |
+| 19  | 2016 S2 | COMP9447 | Security Engineering Workshop  | 6.00  | 77   | DN - Distinction      |
+| 20  | 2009 S2 | MMAN1130 | Design and Manufacturing       | 6.00  | 75   | DN - Distinction      |
 
 
 
@@ -105,18 +105,16 @@
 | 2016 S1 | COMP2911 | Eng. Design in Computing       | 6.00  | 79   | DN - Distinction      |
 | 2016 S1 | COMP3121 | Algorithms & Programming Tech  | 6.00  | 77   | DN - Distinction      |
 | 2016 S1 | COMP3231 | Operating Systems              | 6.00  | 89   | HD - High Distinction |
-| 2016 S1 | COMP3331 | Computer Networks&Applications | 6.00  | 69   | CR - Credit           |
-| 2016 S1 | COMP3441 | Security Engineering           | 6.00  | 90   | HD - High Distinction |
 | 2016 S2 | COMP3161 | Concepts of Programming Lang.  | 6.00  | 53   | PS - Pass             |
 | 2016 S2 | COMP9447 | Security Engineering Workshop  | 6.00  | 77   | DN - Distinction      |
 | 2016 X1 | COMP3901 | Special Project A              | 6.00  | 95   | HD - High Distinction |
 
 ```
-Number of subjects: 51
+Number of subjects: 49
 Number of fails   : 3
-Average mark      : 70
+Average mark      : 69
 Average grade     : CR - Credit
-Units passed      : 294 UoC
+Units passed      : 282 UoC
 ```
 
 
@@ -149,25 +147,30 @@ Units passed      : 72 UoC
 
 
 
-# Summary for MTRN:
+# Summary for COMP:
 ---------------------
 
 | Period  | Code     | Name                           | Units | Mark | Grade                 |
 | ------- | -------- | ------------------------------ | ----- | ---- | --------------------- |
-| 2012 S1 | MTRN3200 | Elements of Mechatronic System | 6.00  | 71   | CR - Credit           |
-| 2012 S1 | MTRN4010 | Advanced Autonomous Systems    | 6.00  | 85   | HD - High Distinction |
-| 2012 S2 | MTRN3020 | Model & Cont of Mechatr Sys    | 0.00  | 23   | FL - Fail             |
-| 2012 S2 | MTRN3100 | Robot Design                   | 6.00  | 95   | HD - High Distinction |
-| 2012 S2 | MTRN3500 | Comp Appl in Mechatonic Sys    | 6.00  | 75   | DN - Distinction      |
-| 2013 S1 | MTRN4230 | Robotics                       | 6.00  | 61   | PS - Pass             |
-| 2013 S2 | MTRN3020 | Model & Cont of Mechatr Sys    | 6.00  | 56   | PS - Pass             |
+| 2009 S1 | COMP1911 | Computing 1A                   | 6.00  | 91   | HD - High Distinction |
+| 2012 S1 | COMP3141 | Software Sys Des&Implementat'n | 6.00  | 85   | HD - High Distinction |
+| 2015 S2 | COMP1927 | Computing 2                    | 6.00  | 88   | HD - High Distinction |
+| 2015 S2 | COMP2041 | Software Construction          | 6.00  | 93   | HD - High Distinction |
+| 2015 S2 | COMP3331 | Computer Networks&Applications | 6.00  | 69   | CR - Credit           |
+| 2015 S2 | COMP3441 | Security Engineering           | 6.00  | 90   | HD - High Distinction |
+| 2016 S1 | COMP2911 | Eng. Design in Computing       | 6.00  | 79   | DN - Distinction      |
+| 2016 S1 | COMP3121 | Algorithms & Programming Tech  | 6.00  | 77   | DN - Distinction      |
+| 2016 S1 | COMP3231 | Operating Systems              | 6.00  | 89   | HD - High Distinction |
+| 2016 S2 | COMP3161 | Concepts of Programming Lang.  | 6.00  | 53   | PS - Pass             |
+| 2016 S2 | COMP9447 | Security Engineering Workshop  | 6.00  | 77   | DN - Distinction      |
+| 2016 X1 | COMP3901 | Special Project A              | 6.00  | 95   | HD - High Distinction |
 
 ```
-Number of subjects: 7
-Number of fails   : 1
-Average mark      : 73
-Average grade     : CR - Credit
-Units passed      : 36 UoC
+Number of subjects: 12
+Number of fails   : 0
+Average mark      : 82
+Average grade     : DN - Distinction
+Units passed      : 72 UoC
 ```
 
 
@@ -206,32 +209,25 @@ Units passed      : 102 UoC
 
 
 
-# Summary for COMP:
+# Summary for MTRN:
 ---------------------
 
 | Period  | Code     | Name                           | Units | Mark | Grade                 |
 | ------- | -------- | ------------------------------ | ----- | ---- | --------------------- |
-| 2009 S1 | COMP1911 | Computing 1A                   | 6.00  | 91   | HD - High Distinction |
-| 2012 S1 | COMP3141 | Software Sys Des&Implementat'n | 6.00  | 85   | HD - High Distinction |
-| 2015 S2 | COMP1927 | Computing 2                    | 6.00  | 88   | HD - High Distinction |
-| 2015 S2 | COMP2041 | Software Construction          | 6.00  | 93   | HD - High Distinction |
-| 2015 S2 | COMP3331 | Computer Networks&Applications | 6.00  | 69   | CR - Credit           |
-| 2015 S2 | COMP3441 | Security Engineering           | 6.00  | 90   | HD - High Distinction |
-| 2016 S1 | COMP2911 | Eng. Design in Computing       | 6.00  | 79   | DN - Distinction      |
-| 2016 S1 | COMP3121 | Algorithms & Programming Tech  | 6.00  | 77   | DN - Distinction      |
-| 2016 S1 | COMP3231 | Operating Systems              | 6.00  | 89   | HD - High Distinction |
-| 2016 S1 | COMP3331 | Computer Networks&Applications | 6.00  | 69   | CR - Credit           |
-| 2016 S1 | COMP3441 | Security Engineering           | 6.00  | 90   | HD - High Distinction |
-| 2016 S2 | COMP3161 | Concepts of Programming Lang.  | 6.00  | 53   | PS - Pass             |
-| 2016 S2 | COMP9447 | Security Engineering Workshop  | 6.00  | 77   | DN - Distinction      |
-| 2016 X1 | COMP3901 | Special Project A              | 6.00  | 95   | HD - High Distinction |
+| 2012 S1 | MTRN3200 | Elements of Mechatronic System | 6.00  | 71   | CR - Credit           |
+| 2012 S1 | MTRN4010 | Advanced Autonomous Systems    | 6.00  | 85   | HD - High Distinction |
+| 2012 S2 | MTRN3020 | Model & Cont of Mechatr Sys    | 0.00  | 23   | FL - Fail             |
+| 2012 S2 | MTRN3100 | Robot Design                   | 6.00  | 95   | HD - High Distinction |
+| 2012 S2 | MTRN3500 | Comp Appl in Mechatonic Sys    | 6.00  | 75   | DN - Distinction      |
+| 2013 S1 | MTRN4230 | Robotics                       | 6.00  | 61   | PS - Pass             |
+| 2013 S2 | MTRN3020 | Model & Cont of Mechatr Sys    | 6.00  | 56   | PS - Pass             |
 
 ```
-Number of subjects: 14
-Number of fails   : 0
-Average mark      : 81
-Average grade     : DN - Distinction
-Units passed      : 84 UoC
+Number of subjects: 7
+Number of fails   : 1
+Average mark      : 73
+Average grade     : CR - Credit
+Units passed      : 36 UoC
 ```
 
 

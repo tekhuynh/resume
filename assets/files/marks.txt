@@ -43,8 +43,6 @@
 2016 S1 COMP2911 Eng. Design in Computing         6.00 79
 2016 S1 COMP3121 Algorithms & Programming Tech    6.00 77
 2016 S1 COMP3231 Operating Systems                6.00 89
-2016 S1 COMP3331 Computer Networks&Applications   6.00 69
-2016 S1 COMP3441 Security Engineering             6.00 90
 2016 S2 COMP3161 Concepts of Programming Lang.    6.00 53
 2016 S2 COMP9447 Security Engineering Workshop    6.00 77
 2016 X1 COMP3901 Special Project A                6.00 95
