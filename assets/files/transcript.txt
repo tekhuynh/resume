@@ -1,0 +1,293 @@
+Name: Huynh,Tek Paul
+Student ID: 3291514
+
+Academic Career 1 of 1: Undergraduate
+Print Date: 02/04/2017
+Academic Program History
+Program: Engineering
+20/01/2009: Admitted
+20/01/2009:  Undeclared  Not Applicable
+Program: Engineering
+21/01/2009: Prematriculant
+21/01/2009:  Undeclared  Not Applicable
+Program: Engineering
+21/01/2009: Active in Program
+21/01/2009:  Undeclared  Not Applicable
+Program: Mechanical & Manufacturing Eng
+09/12/2009: Admitted
+09/12/2009:  Mechanical Engineering  Major
+Program: Mechanical & Manufacturing Eng
+09/12/2009: Prematriculant
+09/12/2009:  Mechanical Engineering  Major
+Program: Mechanical & Manufacturing Eng
+09/12/2009: Active in Program
+09/12/2009:  Mechanical Engineering  Major
+Program: Engineering
+18/12/2009: Cancelled
+18/12/2009:  Undeclared  Not Applicable
+Program: Engineering/Commerce
+17/12/2010: Admitted
+17/12/2010:  Mechanical Engineering  Major
+Program: Engineering/Commerce
+20/12/2010: Prematriculant
+20/12/2010:  Mechanical Engineering  Major
+Program: Mechanical & Manufacturing Eng
+20/12/2010: Cancelled
+20/12/2010:  Mechanical Engineering  Major
+Program: Engineering/Commerce
+20/12/2010: Active in Program
+20/12/2010:  Mechanical Engineering  Major
+Program: Innovation Management
+04/01/2011: Admitted
+04/01/2011:  Innovation Management  Major
+Program: Innovation Management
+05/01/2011: Active in Program
+05/01/2011:  Innovation Management  Major
+Program: Innovation Management
+31/08/2011: Cancelled
+31/08/2011:  Innovation Management  Major
+Program: Mechanical & Manufacturing Eng
+16/12/2011: Admitted
+16/12/2011:  Mechanical Engineering  Major
+Program: Mechanical & Manufacturing Eng
+21/12/2011: Prematriculant
+21/12/2011:  Mechanical Engineering  Major
+Program: Engineering/Commerce
+21/12/2011: Cancelled
+21/12/2011:  Mechanical Engineering  Major
+Program: Mechanical & Manufacturing Eng
+21/12/2011: Active in Program
+21/12/2011:  Mechanical Engineering  Major
+Program: Mechanical & Manufacturing Eng
+13/02/2012: Active in Program
+13/02/2012:  Mechatronic Engineering  Major
+Program: Mechanical & Manf Eng/Science
+12/01/2016: Active in Program
+12/01/2016:  Mechatronic Engineering  Major
+Program: Mechanical & Manf Eng/Science
+01/07/2016: Active in Program
+01/07/2016:  Mechatronic Engineering  Major
+01/07/2016:  Computer Science  Major
+Program: Mechanical & Manf Eng/Science
+02/12/2016: Completed Program
+02/12/2016:  Mechatronic Engineering  Major
+02/12/2016:  Computer Science  Major
+Beginning of  Undergraduate  Record
+
+Semester 1 2009
+
+2009 S1 COMP1911 Computing 1                      6.00     6.00   91   HD
+2009 S1 ENGG1000 Engineering Design               6.00     6.00   80   DN
+2009 S1 MATH1131 Mathematics 1A                   6.00     6.00   80   DN
+2009 S1 PHYS1121 Physics 1A                       6.00     6.00   66   CR
+
+Term WAM:   79.250  Term Totals     24.00     24.00
+Good Standing
+
+Semester 2 2009
+
+2009 S2 MATH1231 Mathematics 1B                   6.00     6.00   77   DN
+2009 S2 MATS1101 Engineering Materials and Chem   6.00     6.00   69   CR
+2009 S2 MMAN1130 Design and Manufacturing         6.00     6.00   75   DN
+2009 S2 MMAN1300 Engineering Mechanics            6.00     6.00   71   CR
+
+Term WAM:   73.000  Term Totals     24.00     24.00
+Good Standing
+
+Summer Semester 2010
+
+2010 X1 GENM0201 Human Origins, Human Problems    6.00     6.00   59   PS
+
+Term WAM:   59.000  Term Totals      6.00      6.00
+
+Semester 1 2010
+
+2010 S1 MATH2019 Engineering Mathematics 2E       6.00     6.00   79   DN
+2010 S1 MMAN2100 Engineering Design 2             6.00     6.00   54   PS
+2010 S1 MMAN2400 Mechanics of Solids 1            6.00     6.00   69   CR
+2010 S1 MMAN2700 Thermodynamics                   6.00     6.00   67   CR
+
+Term WAM:   67.250  Term Totals     72.00     72.00
+Good Standing
+
+Semester 2 2010
+
+2010 S2 ELEC1111 Elec & Telecomm Eng              6.00     6.00   56   PS
+2010 S2 MATH2089 Numerical Methods & Statistics   6.00     6.00   67   CR
+2010 S2 MMAN2600 Fluid Mechanics                  6.00     6.00   78   DN
+
+Term WAM:   67.000  Term Totals     18.00     18.00
+Good Standing
+
+Semester 1 2011
+
+2011 S1 ECON1101 Microeconomics 1                 6.00     6.00   68   CR
+2011 S1 MMAN3200 Linear Systems and Control       6.00     6.00   69   CR
+2011 S1 MMAN3300 Engineering Mechanics 2          6.00     6.00   50   PS
+2011 S1 MMAN3400 Mechanics of Solids 2            6.00     6.00   77   DN
+
+Term WAM:   66.000  Term Totals    114.00    114.00
+Good Standing
+
+Semester 2 2011
+
+2011 S2 MECH3110 Mechanical Design 1              6.00     6.00   60   PS
+2011 S2 MECH3540 Computational Engineering        6.00     0.00   29   FL
+2011 S2 MECH3610 Advanced Thermofluids            6.00     6.00   50   PS
+2011 S2 MMAN3210 Engineering Experimentation      6.00     6.00   69   CR
+
+Term WAM:   52.000  Term Totals     24.00     18.00
+Good Standing
+
+Semester 1 2012
+
+2012 S1 COMP3141 Software Sys Des&Implementat'n   6.00     6.00   85   HD
+2012 S1 MTRN3200 Elements of Mechatronic System   6.00     6.00   71   CR
+2012 S1 MTRN4010 Advanced Autonomous Systems      6.00     6.00   85   HD
+Transfer Credit from The University of New South Wales
+Applied Toward Mechanical & Manufacturing Eng Program
+
+2012 S1 COMP1911 Computing 1A                     6.00     6.00 T
+2012 S1 ECON1101 Microeconomics 1                 6.00     6.00 T
+2012 S1 ELEC1111 Elec & Telecomm Eng              6.00     6.00 T
+2012 S1 ENGG1000 Engineering Design               6.00     6.00 T
+2012 S1 GENM0201 Human Origins, Human Problems    6.00     6.00 T
+2012 S1 MATH1131 Mathematics 1A                   6.00     6.00 T
+2012 S1 MATH1231 Mathematics 1B                   6.00     6.00 T
+2012 S1 MATH2019 Engineering Mathematics 2E       6.00     6.00 T
+2012 S1 MATH2089 Numerical Methods & Statistics   6.00     6.00 T
+2012 S1 MATS1101 Engineering Materials and Chem   6.00     6.00 T
+2012 S1 MECH3110 Mechanical Design 1              6.00     6.00 T
+2012 S1 MECH3610 Advanced Thermofluids            6.00     6.00 T
+2012 S1 MMAN1130 Design and Manufacturing         6.00     6.00 T
+2012 S1 MMAN1300 Engineering Mechanics            6.00     6.00 T
+2012 S1 MMAN2600 Fluid Mechanics                  6.00     6.00 T
+2012 S1 MMAN2700 Thermodynamics                   6.00     6.00 T
+2012 S1 MMAN2100 Engineering Design 2             6.00     6.00 T
+2012 S1 MMAN2400 Mechanics of Solids 1            6.00     6.00 T
+2012 S1 MMAN3400 Mechanics of Solids 2            6.00     6.00 T
+2012 S1 MMAN3200 Linear Systems and Control       6.00     6.00 T
+2012 S1 MMAN3210 Engineering Experimentation      6.00     6.00 T
+2012 S1 MMAN3300 Engineering Mechanics 2          6.00     6.00 T
+2012 S1 PHYS1121 Physics 1A                       6.00     6.00 T
+
+Term WAM:   80.333  Term Totals    156.00    156.00
+Good Standing
+
+Semester 2 2012
+
+2012 S2 MTRN3020 Model & Cont of Mechatr Sys      6.00     0.00   23   FL
+2012 S2 MTRN3100 Robot Design                     6.00     6.00   95   HD
+2012 S2 MTRN3500 Comp Appl in Mechatonic Sys      6.00     6.00   75   DN
+
+Term WAM:   64.333  Term Totals     18.00     12.00
+Good Standing
+
+Semester 1 2013
+
+2013 S1 MMAN4010 Thesis A                         6.00     0.00        AF
+2013 S1 MMAN4400 Engineering Management           6.00     6.00   66   CR
+2013 S1 MTRN4230 Robotics                         6.00     6.00   61   PS
+
+Term WAM:   42.333  Term Totals     18.00     12.00
+Good Standing
+
+Semester 2 2013
+
+2013 S2 MMAN4000 Professional Engineering         6.00     6.00   69   CR
+2013 S2 MMAN4010 Thesis A                         6.00     6.00        EC
+2013 S2 MTRN3020 Model & Cont of Mechatr Sys      6.00     6.00   56   PS
+
+Term WAM:   62.500  Term Totals     18.00     18.00
+Good Standing
+
+Semester 1 2014
+
+2014 S1 ELEC2134 Circuits and Signals             6.00     6.00   63   PS
+2014 S1 ELEC2141 Digital Circuit Design           6.00     6.00   78   DN
+2014 S1 MMAN4020 Thesis B                         6.00     6.00   46   PC
+
+Term WAM:   62.333  Term Totals     18.00     18.00
+Good Standing
+
+Semester 2 2015
+
+2015 S2 COMP1927 Computing 2                      6.00     6.00   88   HD
+2015 S2 COMP2041 Software Construction            6.00     6.00   93   HD
+2015 S2 COMP3331 Computer Networks&Applications   6.00     6.00   69   CR
+2015 S2 COMP3441 Security Engineering             6.00     6.00   90   HD
+
+Term WAM:   85.000  Term Totals     24.00     24.00
+Good Standing
+
+Summer Semester 2016
+
+2016 X1 COMP3901 Special Project A                6.00     6.00   95   HD
+
+Term WAM:   95.000  Term Totals      6.00      6.00
+
+Semester 1 2016
+
+2016 S1 COMP2911 Eng. Design in Computing         6.00     6.00   79   DN
+2016 S1 COMP3121 Algorithms & Programming Tech    6.00     6.00   77   DN
+2016 S1 COMP3231 Operating Systems                6.00     6.00   89   HD
+Transfer Credit from The University of New South Wales
+Applied Toward Mechanical & Manf Eng/Science Program
+
+2016 S1 COMP1927 Computing 2                      6.00     6.00 88
+2016 S1 COMP2041 Software Construction            6.00     6.00 93
+2016 S1 COMP3331 Computer Networks&Applications   6.00     6.00 69
+2016 S1 COMP3441 Security Engineering             6.00     6.00 90
+2016 S1 COMP3141 Software Sys Des&Implementat'n   6.00     6.00 85
+2016 S1 COMP1911 Computing 1A                     6.00     6.00 91
+2016 S1 ELEC1111 Elec & Telecomm Eng              6.00     6.00 56
+2016 S1 ENGG1000 Engineering Design               6.00     6.00 80
+2016 S1 MATH2089 Numerical Methods & Statistics   6.00     6.00 67
+2016 S1 MATH2019 Engineering Mathematics 2E       6.00     6.00 79
+2016 S1 MATH1231 Mathematics 1B                   6.00     6.00 77
+2016 S1 MATH1131 Mathematics 1A                   6.00     6.00 80
+2016 S1 MATS1101 Engineering Materials and Chem   6.00     6.00 69
+2016 S1 MECH3610 Advanced Thermofluids            6.00     6.00 50
+2016 S1 MMAN4020 Thesis B                         6.00     6.00 46
+2016 S1 MMAN4010 Thesis A                         6.00     6.00 T
+2016 S1 MMAN4400 Engineering Management           6.00     6.00 66
+2016 S1 MMAN3210 Engineering Experimentation      6.00     6.00 69
+2016 S1 MMAN3200 Linear Systems and Control       6.00     6.00 69
+2016 S1 MMAN3300 Engineering Mechanics 2          6.00     6.00 50
+2016 S1 MMAN3400 Mechanics of Solids 2            6.00     6.00 77
+2016 S1 MMAN2600 Fluid Mechanics                  6.00     6.00 78
+2016 S1 MMAN2100 Engineering Design 2             6.00     6.00 54
+2016 S1 MMAN2400 Mechanics of Solids 1            6.00     6.00 69
+2016 S1 MMAN2700 Thermodynamics                   6.00     6.00 67
+2016 S1 MMAN1130 Design and Manufacturing         6.00     6.00 75
+2016 S1 MMAN1300 Engineering Mechanics            6.00     6.00 71
+2016 S1 MMAN4000 Professional Engineering         6.00     6.00 69
+2016 S1 MTRN3020 Model & Cont of Mechatr Sys      6.00     6.00 56
+2016 S1 MTRN4230 Robotics                         6.00     6.00 61
+2016 S1 MTRN3100 Robot Design                     6.00     6.00 95
+2016 S1 MTRN3500 Comp Appl in Mechatonic Sys      6.00     6.00 75
+2016 S1 MTRN3200 Elements of Mechatronic System   6.00     6.00 71
+2016 S1 MTRN4010 Advanced Autonomous Systems      6.00     6.00 85
+2016 S1 PHYS1121 Physics 1A                       6.00     6.00 66
+
+Term WAM:   72.649  Term Totals    228.00    228.00
+Good Standing
+
+Semester 2 2016
+
+2016 S2 COMP3161 Concepts of Programming Lang.    6.00     6.00   53   PS
+2016 S2 COMP9447 Security Engineering Workshop    6.00     6.00   77   DN
+
+Term WAM:   65.000  Term Totals     12.00     12.00
+Good Standing
+3705 Engineering Totals
+WAM:        74.222  Units:          54.00     54.00
+3715 Engineering/Commerce Totals
+WAM:        66.000  Units:         114.00    114.00
+3451 Innovation Management Totals
+WAM:        59.000  Units:         138.00    132.00
+3710 Mechanical & Manufacturing Eng Totals
+WAM:        95.000  Units:           6.00      6.00
+3711 Mechanical & Manf Eng/Science Totals
+WAM:        72.825  Units:         246.00    246.00
+

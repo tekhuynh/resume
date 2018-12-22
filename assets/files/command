@@ -1,0 +1,1 @@
+cat files/transcript.txt | egrep '^20[01]' | egrep -v 'T$' | sed |  sed -E 's/...([0-9]+)...[A-Z][A-Z]$/ \1/' | sort -t' ' -k3 > raw
