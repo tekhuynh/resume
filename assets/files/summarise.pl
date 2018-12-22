@@ -2,28 +2,6 @@
 
 use strict;
 
-# Function that returns grade for a given mark
-sub grade {
-
-    my $mark = shift;
-
-    if ($mark >= 85) {
-        return "HD - High Distinction";
-    } elsif ($mark >= 75) {
-        return "DN - Distinction";
-    } elsif ($mark >= 65) {
-        return "CR - Credit";
-    } elsif ($mark >= 50) {
-        return "PS - Pass";
-    } elsif ($mark >= 46) {
-        return "PC - Pass Conceded";
-    } elsif ($mark > 0) {
-        return "FL - Fail";
-    }
-
-    return "AF - Absent Fail";
-}
-
 # Define faculties we are interested in
 my %faculties = (
     COMP  => [],
@@ -64,6 +42,29 @@ for my $subject (@subjects) {
     }
 }
 
+# Returns grade for a given mark
+sub grade {
+
+    my $mark = shift;
+
+    if ($mark >= 85) {
+        return "HD - High Distinction";
+    } elsif ($mark >= 75) {
+        return "DN - Distinction";
+    } elsif ($mark >= 65) {
+        return "CR - Credit";
+    } elsif ($mark >= 50) {
+        return "PS - Pass";
+    } elsif ($mark >= 46) {
+        return "PC - Pass Conceded";
+    } elsif ($mark > 0) {
+        return "FL - Fail";
+    }
+
+    return "AF - Absent Fail";
+}
+
+# Prints results by faculty
 sub faculty {
     for my $faculty (keys %faculties) {
 
