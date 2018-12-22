@@ -49,6 +49,9 @@ while (my $line = <STDIN>) {
 
     push @subjects, \%subject;
 }
+@subjects = sort {
+    $a->{period}.$a->{faculty}.$a->{code} cmp $b->{period}.$b->{faculty}.$b->{code}
+} @subjects;
 
 # Bucketing rules
 for my $subject (@subjects) {
@@ -68,10 +71,10 @@ sub faculty {
         print "---------------------\n\n";
 
         my $width = 7 + 8 + 30 + 6 + 4 + 21 + 5*3 + 3;
-        print "-" x $width, "\n";
         printf "| %-7s | %-8s | %-30s | %-5s | %-4s | %-21s |\n",
         "Period", "Code", "Name", "Units", "Mark", "Grade";
-        print "-" x $width, "\n";
+        printf "| %-7s | %-8s | %-30s | %-5s | %-4s | %-21s |\n",
+        '-' x 7, '-' x 8, '-' x 30, '-' x 5, '-' x 4, '-' x 21;
 
         my $numsubjects  = 0;
         my $numfailed    = 0;
@@ -96,13 +99,14 @@ sub faculty {
 
 
         }
-        print "-" x $width, "\n";
 
+        printf "\n```\n";
         printf "Number of subjects: %d\n", $numsubjects;
         printf "Number of fails   : %d\n", $numfailed;
         printf "Average mark      : %d\n", $totalmarks / $totalcredits;
         printf "Average grade     : %s\n", grade($totalmarks / $totalcredits);
         printf "Units passed      : %s UoC\n", $totalcredits;
+        printf "```\n";
 
         printf "\n\n\n";
     }
@@ -113,17 +117,16 @@ sub top20 {
     print "# Top 20 Subjects\n";
     print "-----------------\n\n";
 
-    my $width = 2 + 7 + 8 + 30 + 6 + 4 + 21 + 6*3 + 3;
-    print "-" x $width, "\n";
-    printf "|    | %-7s | %-8s | %-30s | %-5s | %-4s | %-21s |\n",
+    printf "| n   | %-7s | %-8s | %-30s | %-5s | %-4s | %-21s |\n",
     "Period", "Code", "Name", "Units", "Mark", "Grade";
-    print "-" x $width, "\n";
+    printf "| --- | %-7s | %-8s | %-30s | %-5s | %-4s | %-21s |\n",
+    '-' x 7, '-' x 8, '-' x 30, '-' x 5, '-' x 4, '-' x 21;
 
     for my $i (0..19) {
 
         my $subject = $sorted[$i];
 
-        printf "| %-2s | %-7s | %-4s%-4s | %-30s | %-5s | %-4s | %-21s |\n",
+        printf "| %-3s | %-7s | %-4s%-4s | %-30s | %-5s | %-4s | %-21s |\n",
         $i + 1,
         $subject->{period},
         $subject->{faculty},
@@ -133,7 +136,7 @@ sub top20 {
         $subject->{mark},
         grade($subject->{mark});
     }
-    print "-" x $width, "\n\n\n";
+    print "\n\n\n";
 }
 
 sub bot20 {
@@ -142,16 +145,16 @@ sub bot20 {
     print "--------------------\n\n";
 
     my $width = 2 + 7 + 8 + 30 + 6 + 4 + 21 + 6*3 + 3;
-    print "-" x $width, "\n";
-    printf "|    | %-7s | %-8s | %-30s | %-5s | %-4s | %-21s |\n",
+    printf "| n   | %-7s | %-8s | %-30s | %-5s | %-4s | %-21s |\n",
     "Period", "Code", "Name", "Units", "Mark", "Grade";
-    print "-" x $width, "\n";
+    printf "| --- | %-7s | %-8s | %-30s | %-5s | %-4s | %-21s |\n",
+    '-' x 7, '-' x 8, '-' x 30, '-' x 5, '-' x 4, '-' x 21;
 
     for my $i (0..19) {
 
         my $subject = $sorted[$i];
 
-        printf "| %-2s | %-7s | %-4s%-4s | %-30s | %-5s | %-4s | %-21s |\n",
+        printf "| %-3s | %-7s | %-4s%-4s | %-30s | %-5s | %-4s | %-21s |\n",
         $i + 1,
         $subject->{period},
         $subject->{faculty},
@@ -161,7 +164,7 @@ sub bot20 {
         $subject->{mark},
         grade($subject->{mark});
     }
-    print "-" x $width, "\n\n\n";
+    print "\n\n\n";
 }
 
 sub overall {
@@ -169,11 +172,10 @@ sub overall {
     print "# Overall Summary\n";
     print "-----------------\n\n";
 
-    my $width = 7 + 8 + 30 + 6 + 4 + 21 + 5*3 + 3;
-    print "-" x $width, "\n";
     printf "| %-7s | %-8s | %-30s | %-5s | %-4s | %-21s |\n",
-            "Period", "Code", "Name", "Units", "Mark", "Grade";
-    print "-" x $width, "\n";
+    "Period", "Code", "Name", "Units", "Mark", "Grade";
+    printf "| %-7s | %-8s | %-30s | %-5s | %-4s | %-21s |\n",
+    '-' x 7, '-' x 8, '-' x 30, '-' x 5, '-' x 4, '-' x 21;
 
     my $numsubjects  = 0;
     my $numfailed    = 0;
@@ -197,13 +199,14 @@ sub overall {
 
 
     }
-    print "-" x $width, "\n";
 
+    printf "\n```\n";
     printf "Number of subjects: %d\n", $numsubjects;
     printf "Number of fails   : %d\n", $numfailed;
     printf "Average mark      : %d\n", $totalmarks / $totalcredits;
     printf "Average grade     : %s\n", grade($totalmarks / $totalcredits);
     printf "Units passed      : %s UoC\n", $totalcredits;
+    printf "```\n";
 
     printf "\n\n\n";
 }
