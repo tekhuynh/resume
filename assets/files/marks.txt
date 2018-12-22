@@ -31,6 +31,7 @@
 2013 S1 MMAN4400 Engineering Management           6.00 66
 2013 S1 MTRN4230 Robotics                         6.00 61
 2013 S2 MMAN4000 Professional Engineering         6.00 69
+2013 S1 MMAN4010 Thesis A                         6.00 0
 2013 S2 MMAN4010 Thesis A                         6.00 46
 2013 S2 MTRN3020 Model & Cont of Mechatr Sys      6.00 56
 2014 S1 ELEC2134 Circuits and Signals             6.00 63
@@ -46,4 +47,3 @@
 2016 S2 COMP3161 Concepts of Programming Lang.    6.00 53
 2016 S2 COMP9447 Security Engineering Workshop    6.00 77
 2016 X1 COMP3901 Special Project A                6.00 95
-2013 S1 MMAN4010 Thesis A                         6.00 0
