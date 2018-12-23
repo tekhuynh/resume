@@ -1,4 +1,5 @@
 #!/usr/bin/perl
+# Parses transcript.txt from stdin
 
 use strict;
 
@@ -13,16 +14,20 @@ my %faculties = (
 my @subjects = ();
 while (my $line = <STDIN>) {
 
-    my ($period, $faculty, $code, $name, $credit, $mark) =
-            $line =~ /(.{7})\s(.{4})(.{4})\s(.{30})\s{3}(\d+...)\s(\d+)/;
+    my ($period, $faculty, $code, $name, $uoc, $passed, $mark, $grade) =
+            $line =~ /(.{7})\s(.{4})(.{4})\s(.{30})\s{3}(\d+...)\s+(\d+...)\s+(\d+)\s+([A-Z]{2})/;
+
+    next if not $period;
 
     my %subject = (
-        period  => $period,
-        faculty => $faculty,
-        code    => $code,
-        name    => $name,
-        credit  => $credit,
-        mark    => $mark,
+        period      => $period,
+        faculty     => $faculty,
+        code        => $code,
+        name        => $name,
+        uoc         => $uoc,
+        unitspassed => $passed,
+        mark        => $mark,
+        grade       => $grade,
     );
 
     push @subjects, \%subject;
@@ -89,14 +94,14 @@ sub faculty {
             $subject->{faculty},
             $subject->{code},
             $subject->{name},
-            $subject->{credit},
+            $subject->{unitspassed},
             $subject->{mark},
             grade($subject->{mark});
 
             $numsubjects  += 1;
             $numfailed    += 1 if $subject->{mark} < 46;
-            $totalcredits += $subject->{credit};
-            $totalmarks   += $subject->{mark} * $subject->{credit};
+            $totalcredits += $subject->{unitspassed};
+            $totalmarks   += $subject->{mark} * $subject->{unitspassed};
 
 
         }
@@ -133,7 +138,7 @@ sub top20 {
         $subject->{faculty},
         $subject->{code},
         $subject->{name},
-        $subject->{credit},
+        $subject->{unitspassed},
         $subject->{mark},
         grade($subject->{mark});
     }
@@ -161,7 +166,7 @@ sub bot20 {
         $subject->{faculty},
         $subject->{code},
         $subject->{name},
-        $subject->{credit},
+        $subject->{unitspassed},
         $subject->{mark},
         grade($subject->{mark});
     }
@@ -189,14 +194,14 @@ sub overall {
         $subject->{faculty},
         $subject->{code},
         $subject->{name},
-        $subject->{credit},
+        $subject->{unitspassed},
         $subject->{mark},
         grade($subject->{mark});
 
         $numsubjects  += 1;
         $numfailed    += 1 if $subject->{mark} < 46;
-        $totalcredits += $subject->{credit};
-        $totalmarks   += $subject->{mark} * $subject->{credit};
+        $totalcredits += $subject->{unitspassed};
+        $totalmarks   += $subject->{mark} * $subject->{unitspassed};
 
 
     }
